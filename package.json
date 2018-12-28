@@ -1,0 +1,15 @@
+{
+  "name": "showroom-vc-socketserver",
+  "version": "0.0.1",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "license": "UNLICENSED",
+  "repository": "https://git-ext.office.sevenval.de/opel/vc-api",
+  "description": "Showroom Configurator Socket Server",
+  "dependencies": {
+    "tesseract.js": "^1.0.14",
+    "ytdl-core": "^0.28.3"
+  }
+}
